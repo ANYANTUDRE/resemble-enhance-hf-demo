@@ -10,7 +10,7 @@ pinned: false
 ---
 
 
-# Resemble Enhance: MLOps with Hugging Face Spaces, Gradio and Github Actions
+# Resemble Enhance demo: MLOps with Hugging Face Space, Gradio and Github Actions
 
 [![CI](https://github.com/ANYANTUDRE/resemble-enhance-hf-demo/actions/workflows/main.yml/badge.svg)](https://github.com/ANYANTUDRE/resemble-enhance-hf-demo/actions/workflows/main.yml)
 [![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face%20%F0%9F%A4%97-Space-yellow)](https://huggingface.co/spaces/anyantudre/resemble-enhance-demo)
