@@ -2,6 +2,7 @@
 Demo of Resemble Enhance, an AI-powered tool that aims to improve the overall quality of speech by performing denoising and enhancement.
 
 
+[![CI](https://github.com/ANYANTUDRE/resemble-enhance-hf-demo/actions/workflows/main.yml/badge.svg)](https://github.com/ANYANTUDRE/resemble-enhance-hf-demo/actions/workflows/main.yml)
 
 
 ---
@@ -15,9 +16,6 @@ app_file: app.py
 pinned: false
 license: cc
 ---
-
-
-[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml)
 
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/noahgift/demo)
